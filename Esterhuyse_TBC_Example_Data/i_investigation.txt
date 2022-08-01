@@ -1,0 +1,95 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	PATO	OBI	NCBITAXON
+Term Source File	http://data.bioontology.org/ontologies/PATO	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/NCBITAXON
+Term Source Version	1.2	31	8
+Term Source Description	Phenotype And Trait Ontology	Ontology for Biomedical Investigations	National Center for Biotechnology Information (NCBI) Organismal Classification
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+Comment[Created With Configuration]	
+Comment[Last Opened With Configuration]	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	mcr
+Study Title	Epigenetics and Proteomics Join Transcriptomics in the Quest for Tuberculosis Biomarkers
+Study Description	Tuberculosis Biomarker detection with Multi-Omics approaches
+Comment[Study Grant Number]	
+Comment[Study Funding Agency]	
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_mcr.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	
+Study Factor Type	
+Study Factor Type Term Accession Number	
+Study Factor Type Term Source REF	
+STUDY ASSAYS
+Study Assay File Name	a_mcr_dna_methylation_profiling_microarray.txt	a_mcr_microrna_profiling_microarray.txt	a_mcr_protein_expression_profiling.txt	a_mcr_transcription_profiling_microarray.txt
+Study Assay Measurement Type	DNA methylation profiling assay	microRNA profiling assay	Protein expression profiling assay	transcription profiling assay
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000634	http://purl.obolibrary.org/obo/OBI_0001926	http://purl.obolibrary.org/obo/OBI_0000615	http://purl.obolibrary.org/obo/OBI_0001463
+Study Assay Measurement Type Term Source REF	OBI	OBI	OBI	OBI
+Study Assay Technology Type	microarray	microarray	mass spectometer	microarray
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0400148	http://purl.obolibrary.org/obo/OBI_0400148	http://purl.obolibrary.org/obo/OBI_0000049	http://purl.obolibrary.org/obo/OBI_0400148
+Study Assay Technology Type Term Source REF	OBI	OBI	OBI	OBI
+Study Assay Technology Platform	METHYLATION ARRAY NAME	MICRORNA TRANSCRIPTION ARRAY NAME	EXPRESSION NAME	TRANSCRIPTION ARRAY NAME
+STUDY PROTOCOLS
+Study Protocol Name	Protein reduction, alkylation and digestion	Whole genome amplification	Bisulfite conversion	MS identification	Label free quantification	Mass spectrometry	Data transformation	Normalization data transformation	Data collection	Nucleic acid hybridization	Labeling	Nucleic acid extraction	Sample collection
+Study Protocol Type	data collection	data collection	data collection	data transformation	data transformation	data collection	data transformation	normalization data transformation	data collection	nucleic acid hybridization	Labeling	nucleic acid extraction	sample collection
+Study Protocol Type Term Accession Number										http://purl.obolibrary.org/obo/OBI_0302903		http://purl.obolibrary.org/obo/OBI_0666667	
+Study Protocol Type Term Source REF										OBI		OBI	
+Study Protocol Description													
+Study Protocol URI													
+Study Protocol Version													
+Study Protocol Parameters Name													
+Study Protocol Parameters Name Term Accession Number													
+Study Protocol Parameters Name Term Source REF													
+Study Protocol Components Name													
+Study Protocol Components Type													
+Study Protocol Components Type Term Accession Number													
+Study Protocol Components Type Term Source REF													
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
