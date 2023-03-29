@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITAXON	PATO	UBERON	OBI	NCIT
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/PATO	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/NCIT
+Term Source Version	2015AA	unknown	releases/2014-06-15	2014-08-18	15.05d
+Term Source Description	National Center for Biotechnology Information (NCBI) Organismal Classification	Phenotypic Quality Ontology	Uber Anatomy Ontology	Ontology for Biomedical Investigations	National Cancer Institute Thesaurus
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2016.10
+Study Title	An open access pilot freely sharing cancer genomic data from participants in Texas
+Study Submission Date	2015-10-02
+Study Public Release Date	2016-02-16
+Study Description	http://www.nature.com/articles/sdata201610#abstract
+Study File Name	s_study_Becnel.txt
+Comment[Subject Keywords]	//;//;///;///
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]	
+Comment[Supplementary Information File Type]	x-zip-compressed
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata201610#supplementary-information
+Comment[Data Repository]	NCBI Sequence Read Archive;NCBI Sequence Read Archive
+Comment[Data Record Accession]	PRJNA284598;PRJNA284596
+Comment[Data Record URI]	http://www.ncbi.nlm.nih.gov/bioproject/PRJNA284598;http://www.ncbi.nlm.nih.gov/bioproject/PRJNA284596
+STUDY DESIGN DESCRIPTORS
+Study Design Type	parallel group design	disease state design
+Study Design Type Term Accession Number	OBI:0500006	OBI:0001293
+Study Design Type Term Source REF	OBI	OBI
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	sample origin
+Study Factor Type	disease state
+Study Factor Type Term Accession Number	
+Study Factor Type Term Source REF	
+STUDY ASSAYS
+Study Assay Measurement Type	transcriptome profiling	genome sequencing	genome sequencing
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000424		
+Study Assay Measurement Type Term Source REF	OBI		
+Study Assay Technology Type	nucleotide sequencing	nucleotide sequencing	nucleotide sequencing
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000626	http://purl.obolibrary.org/obo/OBI_0000626	http://purl.obolibrary.org/obo/OBI_0000626
+Study Assay Technology Type Term Source REF	OBI	OBI	OBI
+Study Assay Technology Platform	ILLUMINA	ILLUMINA	ILLUMINA
+Study Assay File Name	a_RNA_SODAR.txt	a_WES_SODAR.txt	a_WGS_SODAR.txt
+STUDY PROTOCOLS
+Study Protocol Name	Obtaining Informed Consent	Selecting the OA Cohort	Tumor and Normal Collection	Nucleic acid extraction WES	Library construction WES	Nucleic acid sequencing WES	Nucleic acid extraction WGS	Library construction WGS	Nucleic acid sequencing WGS	Nucleic acid extraction RNA	Library construction RNA	Nucleic acid sequencing RNA
+Study Protocol Type	informed consent process	selection	specimen collection process	Nucleid acid extraction WES	Library construction WES	Nucleic acid sequencing WES	Nucleid acid extraction WGS	Library construction WGS	Nucleic acid sequencing WGS	Nucleid acid extraction RNA	Library construction RNA	Nucleic acid sequencing RNA
+Study Protocol Type Term Accession Number	OBI:0000810	OBI:0001928	OBI:0000659									
+Study Protocol Type Term Source REF	OBI	OBI	OBI									
+Study Protocol Description												
+Study Protocol URI												
+Study Protocol Version												
+Study Protocol Parameters Name					Library source;Library strategy;Library selection;Library layout;Library kit	Platform;Instrument model;Base quality encoding;Center name;Center contact		Library source;Library strategy;Library selection;Library layout;Library kit	Platform;Instrument model;Base quality encoding;Center name;Center contact		Library source;Library strategy;Library selection;Library layout;Library kit	Platform;Instrument model;Base quality encoding;Center name;Center contact
+Study Protocol Parameters Name Term Accession Number					;;;;	;;;;		;;;;	;;;;		;;;;	;;;;
+Study Protocol Parameters Name Term Source REF					;;;;	;;;;		;;;;	;;;;		;;;;	;;;;
+Study Protocol Components Name												
+Study Protocol Components Type												
+Study Protocol Components Type Term Accession Number												
+Study Protocol Components Type Term Source REF												
+STUDY CONTACTS
+Study Person Last Name	Becnel	Pereira	Drummond	Gingras	Covington	Kovar	Doddapaneni	Hu	Muzny	McGuire	Wheeler	Gibbs
+Study Person First Name	Lauren B.	Stacey	Jennifer A.	Marie-Claude	Kyle R.	Christie L.	Harsha Vardhan	Jianhong	Donna	Amy L.	David A.	Richard A.
+Study Person Mid Initials												
+Study Person Email	becnel@bcm.edu											
+Study Person Phone												
+Study Person Fax												
+Study Person Address												
+Study Person Affiliation	Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas 77030, USA	Center for Medical Ethics and Health Policy, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Center for Medical Ethics and Health Policy, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA	Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA
+Study Person Roles												
+Study Person Roles Term Accession Number												
+Study Person Roles Term Source REF												
+Comment[Study Person ORCID]												
+Comment[Funder]												
+Comment[FundRef ID]												
+Comment[Funder Term Source REF]												
+Comment[Grant Identifier]												

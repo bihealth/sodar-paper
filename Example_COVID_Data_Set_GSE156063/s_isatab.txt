@@ -1,0 +1,235 @@
+Source Name	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Sex]	Characteristics[Disease status]	Characteristics[OMIM disease]	Term Source REF	Term Accession Number	Characteristics[Orphanet disease]	Term Source REF	Term Accession Number	Characteristics[GEOACCESSION]	Characteristics[Age]	Protocol REF	Performer	Sample Name	Characteristics[External links]
+RR057e_00037	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721700	67	Sample collection		RR057e_00037	
+RR057e_00039	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721746	42	Sample collection		RR057e_00039	
+RR057e_00042	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721640	38	Sample collection		RR057e_00042	
+RR057e_00047	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721602	45	Sample collection		RR057e_00047	
+RR057e_00049	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721623	60	Sample collection		RR057e_00049	
+RR057e_00051	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721631	75	Sample collection		RR057e_00051	
+RR057e_00052	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721678	64	Sample collection		RR057e_00052	
+RR057e_00058	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721745	66	Sample collection		RR057e_00058	
+RR057e_00060	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721591	73	Sample collection		RR057e_00060	
+RR057e_00066	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721691	82	Sample collection		RR057e_00066	
+RR057e_00073	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721733	33	Sample collection		RR057e_00073	
+RR057e_00074	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721616	57	Sample collection		RR057e_00074	
+RR057e_00076	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721698	34	Sample collection		RR057e_00076	
+RR057e_00079	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721636	54	Sample collection		RR057e_00079	
+RR057e_00080	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721579	81	Sample collection		RR057e_00080	
+RR057e_00084	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721682	38	Sample collection		RR057e_00084	
+RR057e_00086	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721679	42	Sample collection		RR057e_00086	
+RR057e_00088	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721711	66	Sample collection		RR057e_00088	
+RR057e_00093	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721717	72	Sample collection		RR057e_00093	
+RR057e_00102	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721715	29	Sample collection		RR057e_00102	
+RR057e_00105	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721686	66	Sample collection		RR057e_00105	
+RR057e_00107	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721667	40	Sample collection		RR057e_00107	
+RR057e_00116	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721680	70	Sample collection		RR057e_00116	
+RR057e_00117	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721651	38	Sample collection		RR057e_00117	
+RR057e_00119	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721641	73	Sample collection		RR057e_00119	
+RR057e_00130	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721747	88	Sample collection		RR057e_00130	
+RR057e_00131	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721672	76	Sample collection		RR057e_00131	
+RR057e_00133	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721716	34	Sample collection		RR057e_00133	
+RR057e_00134	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721690	32	Sample collection		RR057e_00134	
+RR057e_00137	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721689	38	Sample collection		RR057e_00137	
+RR057e_00138	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721621	74	Sample collection		RR057e_00138	
+RR057e_00140	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721645	44	Sample collection		RR057e_00140	
+RR057e_00142	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721608	64	Sample collection		RR057e_00142	
+RR057e_00143	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721619	36	Sample collection		RR057e_00143	
+RR057e_00145	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721628	72	Sample collection		RR057e_00145	
+RR057e_00148	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721659	21	Sample collection		RR057e_00148	
+RR057e_00154	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721629	46	Sample collection		RR057e_00154	
+RR057e_00161	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721721	30	Sample collection		RR057e_00161	
+RR057e_00165	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721594	56	Sample collection		RR057e_00165	
+RR057e_00168	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721722	65	Sample collection		RR057e_00168	
+RR057e_00169	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721630	53	Sample collection		RR057e_00169	
+RR057e_00171	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721627	82	Sample collection		RR057e_00171	
+RR057e_00173	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721732	71	Sample collection		RR057e_00173	
+RR057e_00184	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721658	61	Sample collection		RR057e_00184	
+RR057e_00187	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721706	47	Sample collection		RR057e_00187	
+RR057e_00198	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721647	48	Sample collection		RR057e_00198	
+RR057e_00200	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721654	25	Sample collection		RR057e_00200	
+RR057e_00202	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721578	62	Sample collection		RR057e_00202	
+RR057e_00203	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721748	39	Sample collection		RR057e_00203	
+RR057e_00206	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721708	74	Sample collection		RR057e_00206	
+RR057e_00216	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721622	64	Sample collection		RR057e_00216	
+RR057e_00222	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721656	72	Sample collection		RR057e_00222	
+RR057e_00223	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721731	62	Sample collection		RR057e_00223	
+RR057e_00224	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721618	46	Sample collection		RR057e_00224	
+RR057e_00231	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721707	44	Sample collection		RR057e_00231	
+RR057e_00232	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721662	47	Sample collection		RR057e_00232	
+RR057e_00237	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721669	33	Sample collection		RR057e_00237	
+RR057e_00239	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721612	63	Sample collection		RR057e_00239	
+RR057e_00246	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721661	63	Sample collection		RR057e_00246	
+RR057e_00250	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721695	71	Sample collection		RR057e_00250	
+RR057e_00253	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721600	51	Sample collection		RR057e_00253	
+RR057e_00254	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721589	45	Sample collection		RR057e_00254	
+RR057e_00259	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721725	44	Sample collection		RR057e_00259	
+RR057e_00260	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721726	73	Sample collection		RR057e_00260	
+RR057e_00261	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721749	51	Sample collection		RR057e_00261	
+RR057e_00268	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721650	52	Sample collection		RR057e_00268	
+RR057e_00272	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721687	67	Sample collection		RR057e_00272	
+RR057e_00273	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721653	85	Sample collection		RR057e_00273	
+RR057e_00280	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721614	64	Sample collection		RR057e_00280	
+RR057e_00285	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721588	83	Sample collection		RR057e_00285	
+RR057e_00287	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721580	76	Sample collection		RR057e_00287	
+RR057e_00290	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721664	44	Sample collection		RR057e_00290	
+RR057e_00291	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721638	42	Sample collection		RR057e_00291	
+RR057e_00294	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721599	59	Sample collection		RR057e_00294	
+RR057e_00295	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721633	57	Sample collection		RR057e_00295	
+RR057e_00296	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721673	35	Sample collection		RR057e_00296	
+RR057e_00302	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721611	71	Sample collection		RR057e_00302	
+RR057e_00309	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721607	77	Sample collection		RR057e_00309	
+RR057e_00318	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721675	35	Sample collection		RR057e_00318	
+RR057e_00324	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721660	24	Sample collection		RR057e_00324	
+RR057e_00340	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721626	46	Sample collection		RR057e_00340	
+RR057e_00399	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721595	73	Sample collection		RR057e_00399	
+RR057e_00401	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721737	77	Sample collection		RR057e_00401	
+RR057e_00403	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721694	34	Sample collection		RR057e_00403	
+RR057e_00410	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721652	65	Sample collection		RR057e_00410	
+RR057e_00412	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721601	72	Sample collection		RR057e_00412	
+RR057e_00414	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721605	45	Sample collection		RR057e_00414	
+RR057e_00416	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721704	37	Sample collection		RR057e_00416	
+RR057e_00418	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721643	34	Sample collection		RR057e_00418	
+RR057e_00423	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721644	86	Sample collection		RR057e_00423	
+RR057e_00427	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721702	67	Sample collection		RR057e_00427	
+RR057e_00431	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721740	48	Sample collection		RR057e_00431	
+RR057e_00436	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721603	69	Sample collection		RR057e_00436	
+RR057e_00437	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721604	69	Sample collection		RR057e_00437	
+RR057e_00440	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721610	82	Sample collection		RR057e_00440	
+RR057e_00442	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721663	70	Sample collection		RR057e_00442	
+RR057e_00449	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721697	65	Sample collection		RR057e_00449	
+RR057e_00451	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721587	78	Sample collection		RR057e_00451	
+RR057e_00454	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721683	82	Sample collection		RR057e_00454	
+RR057e_00456	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721741	67	Sample collection		RR057e_00456	
+RR057e_00460	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721606	44	Sample collection		RR057e_00460	
+RR057e_00475	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721613	52	Sample collection		RR057e_00475	
+RR057e_00485	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721637	62	Sample collection		RR057e_00485	
+RR057e_00488	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721743	29	Sample collection		RR057e_00488	
+RR057e_00489	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721609	40	Sample collection		RR057e_00489	
+RR057e_00491	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721671	75	Sample collection		RR057e_00491	
+RR057e_00494	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721688	64	Sample collection		RR057e_00494	
+RR057e_00504	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721744	25	Sample collection		RR057e_00504	
+RR057e_00505	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721584	89	Sample collection		RR057e_00505	
+RR057e_00508	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721665	49	Sample collection		RR057e_00508	
+RR057e_00512	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721734	35	Sample collection		RR057e_00512	
+RR057e_00515	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721649	41	Sample collection		RR057e_00515	
+RR057e_00516	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721693	55	Sample collection		RR057e_00516	
+RR057e_00520	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721583	79	Sample collection		RR057e_00520	
+RR057e_00534	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721738	57	Sample collection		RR057e_00534	
+RR057e_00540	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721719	42	Sample collection		RR057e_00540	
+RR057e_00549	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721670	60	Sample collection		RR057e_00549	
+RR057e_00560	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721592	89	Sample collection		RR057e_00560	
+RR057e_00567	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721620	59	Sample collection		RR057e_00567	
+RR057e_00577	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721657	42	Sample collection		RR057e_00577	
+RR057e_00581	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721646	40	Sample collection		RR057e_00581	
+RR057e_00586	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721730	85	Sample collection		RR057e_00586	
+RR057e_00590	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721624	41	Sample collection		RR057e_00590	
+RR057e_00719	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721806	40	Sample collection		RR057e_00719	
+RR057e_00721	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721807	27	Sample collection		RR057e_00721	
+RR057e_00723	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721712	43	Sample collection		RR057e_00723	
+RR057e_00724	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721739	30	Sample collection		RR057e_00724	
+RR057e_00726	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721590	74	Sample collection		RR057e_00726	
+RR057e_00727	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721642	55	Sample collection		RR057e_00727	
+RR057e_00728	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721809	40	Sample collection		RR057e_00728	
+RR057e_00729	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721674	35	Sample collection		RR057e_00729	
+RR057e_00731	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721808	63	Sample collection		RR057e_00731	
+RR057e_00733	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721750	58	Sample collection		RR057e_00733	
+RR057e_00735	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721634	20	Sample collection		RR057e_00735	
+RR057e_00736	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721696	51	Sample collection		RR057e_00736	
+RR057e_00737	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721666	35	Sample collection		RR057e_00737	
+RR057e_00741	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721681	38	Sample collection		RR057e_00741	
+RR057e_00742	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721655	54	Sample collection		RR057e_00742	
+RR057e_00743	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721718	32	Sample collection		RR057e_00743	
+RR057e_00744	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721676	32	Sample collection		RR057e_00744	
+RR057e_00746	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721776	82	Sample collection		RR057e_00746	
+RR057e_00747	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721736	32	Sample collection		RR057e_00747	
+RR057e_00748	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721727	28	Sample collection		RR057e_00748	
+RR057e_00749	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721598	55	Sample collection		RR057e_00749	
+RR057e_00750	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721703	67	Sample collection		RR057e_00750	
+RR057e_00751	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721582	58	Sample collection		RR057e_00751	
+RR057e_00752	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721720	41	Sample collection		RR057e_00752	
+RR057e_00753	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721581	36	Sample collection		RR057e_00753	
+RR057e_00754	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721632	68	Sample collection		RR057e_00754	
+RR057e_00755	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721593	69	Sample collection		RR057e_00755	
+RR057e_00756	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721724	34	Sample collection		RR057e_00756	
+RR057e_00757	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721648	64	Sample collection		RR057e_00757	
+RR057e_00759	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721742	46	Sample collection		RR057e_00759	
+RR057e_00761	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	other virus							GSM4721735	44	Sample collection		RR057e_00761	
+RR057e_00762	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721701	33	Sample collection		RR057e_00762	
+RR057e_00763	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721668	41	Sample collection		RR057e_00763	
+RR057e_00764	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	other virus							GSM4721586	71	Sample collection		RR057e_00764	
+RR057e_00765	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721639	54	Sample collection		RR057e_00765	
+RR057i_00062	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721767	43	Sample collection		RR057i_00062	
+RR057i_00064	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721765	44	Sample collection		RR057i_00064	
+RR057i_00067	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721810	44	Sample collection		RR057i_00067	
+RR057i_00068	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721751	62	Sample collection		RR057i_00068	
+RR057i_00069	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721783	35	Sample collection		RR057i_00069	
+RR057i_00070	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721785	44	Sample collection		RR057i_00070	
+RR057i_00071	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721784	57	Sample collection		RR057i_00071	
+RR057i_00072	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721729	33	Sample collection		RR057i_00072	
+RR057i_00074	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721769	62	Sample collection		RR057i_00074	
+RR057i_00075	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721773	50	Sample collection		RR057i_00075	
+RR057i_00076	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721617	26	Sample collection		RR057i_00076	
+RR057i_00077	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721768	29	Sample collection		RR057i_00077	
+RR057i_00078	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721772	34	Sample collection		RR057i_00078	
+RR057i_00080	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721774	24	Sample collection		RR057i_00080	
+RR057i_00081	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721771	47	Sample collection		RR057i_00081	
+RR057i_00082	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721775	63	Sample collection		RR057i_00082	
+RR057i_00083	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721585	63	Sample collection		RR057i_00083	
+RR057i_00084	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721705	42	Sample collection		RR057i_00084	
+RR057i_00086	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721709	27	Sample collection		RR057i_00086	
+RR057i_00088	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721780	20	Sample collection		RR057i_00088	
+RR057i_00089	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721779	29	Sample collection		RR057i_00089	
+RR057i_00090	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721778	76	Sample collection		RR057i_00090	
+RR057i_00094	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721759	46.8915662650602	Sample collection		RR057i_00094	
+RR057i_00095	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721757	46.8915662650602	Sample collection		RR057i_00095	
+RR057i_00096	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721762	46.8915662650602	Sample collection		RR057i_00096	
+RR057i_00098	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721763	46.8915662650602	Sample collection		RR057i_00098	
+RR057i_00099	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721758	46.8915662650602	Sample collection		RR057i_00099	
+RR057i_00100	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721756	46.8915662650602	Sample collection		RR057i_00100	
+RR057i_00101	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721764	46.8915662650602	Sample collection		RR057i_00101	
+RR057i_00103	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721755	46.8915662650602	Sample collection		RR057i_00103	
+RR057i_00104	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721760	46.8915662650602	Sample collection		RR057i_00104	
+RR057i_00106	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721761	46.8915662650602	Sample collection		RR057i_00106	
+RR057i_00108	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721800	53	Sample collection		RR057i_00108	
+RR057i_00109	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721799	41	Sample collection		RR057i_00109	
+RR057i_00110	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721798	62	Sample collection		RR057i_00110	
+RR057i_00112	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721797	43	Sample collection		RR057i_00112	
+RR057i_00114	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721796	62	Sample collection		RR057i_00114	
+RR057i_00115	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721766	53	Sample collection		RR057i_00115	
+RR057i_00116	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721811	54	Sample collection		RR057i_00116	
+RR057i_00117	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721786	52	Sample collection		RR057i_00117	
+RR057i_00118	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721770	53	Sample collection		RR057i_00118	
+RR057i_00119	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721699	46	Sample collection		RR057i_00119	
+RR057i_00120	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721754	57.2020202020202	Sample collection		RR057i_00120	
+RR057i_00121	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721625	44	Sample collection		RR057i_00121	
+RR057i_00122	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721782	64	Sample collection		RR057i_00122	
+RR057i_00123	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721781	73	Sample collection		RR057i_00123	
+RR057i_00131	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721723	27	Sample collection		RR057i_00131	
+RR057i_00132	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721789	73	Sample collection		RR057i_00132	
+RR057i_00133	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721788	69	Sample collection		RR057i_00133	
+RR057i_00134	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721790	40	Sample collection		RR057i_00134	
+RR057i_00135	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721787	26	Sample collection		RR057i_00135	
+RR057i_00136	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721802	44	Sample collection		RR057i_00136	
+RR057i_00137	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721803	55	Sample collection		RR057i_00137	
+RR057i_00138	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721801	71	Sample collection		RR057i_00138	
+RR057i_00139	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721692	64	Sample collection		RR057i_00139	
+RR057i_00141	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721794	46	Sample collection		RR057i_00141	
+RR057i_00145	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721793	21	Sample collection		RR057i_00145	
+RR057i_00147	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721753	26	Sample collection		RR057i_00147	
+RR057i_00149	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721714	34	Sample collection		RR057i_00149	
+RR057i_00151	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721713	34	Sample collection		RR057i_00151	
+RR057i_00154	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721685	45	Sample collection		RR057i_00154	
+RR057i_00156	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721804	31	Sample collection		RR057i_00156	
+RR057i_00157	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721596	76	Sample collection		RR057i_00157	
+RR057i_00158	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721805	54	Sample collection		RR057i_00158	
+RR057i_00163	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721792	60	Sample collection		RR057i_00163	
+RR057i_00165	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721677	40	Sample collection		RR057i_00165	
+RR057i_00167	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721597	71	Sample collection		RR057i_00167	
+RR057i_00169	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721777	64	Sample collection		RR057i_00169	
+RR057i_00171	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	SC2							GSM4721710	63	Sample collection		RR057i_00171	
+RR057i_00172	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	SC2							GSM4721795	22	Sample collection		RR057i_00172	
+RR057i_00173	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721615	52	Sample collection		RR057i_00173	
+RR057i_00175	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721791	69	Sample collection		RR057i_00175	
+RR057i_00176	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721635	20	Sample collection		RR057i_00176	
+RR057i_00177	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721752	38	Sample collection		RR057i_00177	
+RR057i_00179	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	M	no virus							GSM4721684	27	Sample collection		RR057i_00179	
+RR057i_00180	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	F	no virus							GSM4721728	33	Sample collection		RR057i_00180	

@@ -1,0 +1,17 @@
+Source Name	Characteristics[External links]	Characteristics[Organism]	Characteristics[Diagnosis]	Protocol REF	Parameter Value[Origin]	Parameter Value[Material]	Parameter Value[Treatment]	Sample Name
+1039		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1039_ctrl
+1039		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1039_stim
+107		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	107_ctrl
+107		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	107_stim
+101		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	101_ctrl
+101		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	101_stim
+1016		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1016_ctrl
+1016		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1016_stim
+1244		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1244_ctrl
+1244		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1244_stim
+1256		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1256_ctrl
+1256		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1256_stim
+1488		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1488_ctrl
+1488		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1488_stim
+1015		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	ctrl	1015_ctrl
+1015		Homo sapiens	Systemic lupus erythematosus	Sample collection	blood	PBMC	IFN	1015_stim
